@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\Lekcii\worckhoome\bin\Debug\net6.0\worckhoome.exe
+C:\Users\Professional\Desktop\Lekcii\worckhoome\bin\Debug\net6.0\worckhoome.deps.json
+C:\Users\Professional\Desktop\Lekcii\worckhoome\bin\Debug\net6.0\worckhoome.runtimeconfig.json
+C:\Users\Professional\Desktop\Lekcii\worckhoome\bin\Debug\net6.0\worckhoome.dll
+C:\Users\Professional\Desktop\Lekcii\worckhoome\bin\Debug\net6.0\worckhoome.pdb
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.dll
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\refint\worckhoome.dll
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.pdb
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\worckhoome.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Lekcii\worckhoome\obj\Debug\net6.0\ref\worckhoome.dll
